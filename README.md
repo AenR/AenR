@@ -1,5 +1,5 @@
 <a href='#'> 
-<img align="left" height="270px" border-radius: "50%" alt="LOGOM" src="./logo.jpg" /> 
+<img align="left" height="270px" border-radius: 50px alt="LOGOM" src="./logo.jpg" /> 
 </a>
 
 <br>
