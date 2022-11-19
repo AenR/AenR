@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AenR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href='#'> 
+<img align="left" height="270px" alt="GIF" src="./logo.png" /> 
+</a>
 
-<!---
-AenR/AenR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<h1 align="center">WELCOME!</h1>
+
+<div align="center">
+<h3 align="center">to My Profile</h3>
