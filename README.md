@@ -1,3 +1,7 @@
+<a href="#">
+<img align="right" height="270px" alt="AenR" src="./logo.jpg" /> 
+</a>
+
 <h1 align="center">WELCOME!</h1>
 
 <div align="center">
