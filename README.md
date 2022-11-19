@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" height="270px" alt="AenR" src="./logo.jpg" /> 
+<img align="right" height="270px" alt="AenR" src="./logo.png" /> 
 </a>
 
 <h1 align="center">WELCOME!</h1>
