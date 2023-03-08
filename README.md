@@ -6,9 +6,9 @@
 
 <div align="center">
 <h3 align="center">It's me AenR!</h3>
+<h6 align="center">Computer Programming :computer:</h6>
 <div>
-  👀 I’m interested in ...<br>
-  🌱 I’m currently learning ...
+  <!-- -->
 </div>
   
 </div>
